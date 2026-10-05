@@ -1,0 +1,19 @@
+{
+  "wheel_id": 317,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergeelong-com-104",
+  "project": "home-loan-broker-geelong-costs-ac9304564fa089dfa322c0ec8a03db95",
+  "parent_t1_ref": "homeloanbrokergeelong-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergeelong.com.au",
+  "primary_kw": "home loan broker geelong costs",
+  "intended_url": "http://home-loan-broker-geelong-costs-ac9304564fa089dfa322c0ec8a03db95.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "1793af1752d4ce4e",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-geelong-f4544171589255de1c507bb534d1dc42fe4bb3/",
+      "anchor": "home loan broker geelong",
+      "rel": "follow"
+    }
+  ]
+}
